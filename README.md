@@ -4,3 +4,4 @@ nasze pierwsze repozytorium
 plik został edytowany
 
 zmodyfikowany lokalnie
+zmodyfikowany zdalnie
